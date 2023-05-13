@@ -1,6 +1,6 @@
 
 
-```{r language colon-intramucosal-lipoma, echo=FALSE, include=TRUE}
+```{r language colon-submucosal-lipoma, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -11,7 +11,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-# Kolon intramukozal lipom
+# Kolon submukozal lipom
 
 ```
 
@@ -20,7 +20,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-# Colon intramucosal lipoma
+# Colon submucosal lipoma
 
 ```
 
@@ -29,14 +29,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**Kolon intramukozal lipom**
+**Kolon submukozal lipom**
 
 
-[https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html](https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html)
+[https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html](https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -45,14 +45,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**Colon intramucosal lipoma**
+**Colon submucosal lipoma**
 
 
-[https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html](https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html)
+[https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html](https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/colon-intramucosal-lipoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-submucosal-lipoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
